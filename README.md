@@ -29,8 +29,10 @@ Code éxécuté sur le fichier 3i40.pdb
 projet_court_proteine.py
 
 ## Exécution du code dans le terminal 
+```bash
 $ python3 script.py  <nombre_points_sphere> <nombre_atomes_proches> <fichier_pdb>
 $ Exemple : python3 projet_court_proteine.py 100 5 3i40.pdb
+```
 
 
 
