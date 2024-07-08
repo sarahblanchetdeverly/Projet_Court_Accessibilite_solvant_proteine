@@ -30,7 +30,7 @@ $ conda install pandas
 
 Clonage du répertoire : 
 ```bash
-$ conda install pandas
+$ git clone https://github.com/sarahblanchetdeverly/Projet_Court_Accessibilite_solvant_proteine.git
 ```
 
 ## Data 
