@@ -18,7 +18,12 @@ La surface accessible au solvant des acides aminés des protéines est un param�
 - collections
 
 ## Installation 
-Créer un environnement virtuel sur conda (exemple "projet_court") et installer les dépendances nécessaires : 
+Créer un environnement virtuel sur conda 
+```bash
+$ conda create projet_court
+$ conda activate projet_court
+```
+Et installer les dépendances nécessaires : 
 ```bash
 $ conda install pandas
 ```
