@@ -23,7 +23,8 @@ Créer un environnement virtuel sur conda
 $ conda create projet_court
 $ conda activate projet_court
 ```
-Et installer les dépendances nécessaires : 
+
+Installer les dépendances nécessaires : 
 ```bash
 $ conda install pandas
 ```
