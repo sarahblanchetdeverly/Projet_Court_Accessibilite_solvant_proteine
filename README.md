@@ -28,6 +28,11 @@ Et installer les dépendances nécessaires :
 $ conda install pandas
 ```
 
+Clonage du répertoire : 
+```bash
+$ conda install pandas
+```
+
 ## Data 
 Code éxécuté sur le fichier 3i40.pdb
 
